@@ -1,0 +1,7 @@
+[Activity]
+name = Conozco Alimentos
+activity_version = 2
+bundle_id = org.ceibaljam.conozcoalimentos
+icon = conozco-alimentos
+exec = sugar-activity activity.Activity
+license = GPLv3+

@@ -1,0 +1,11 @@
+Autor: Alan Aguiar (alanjas@gmail.com)
+Idea original: Ana Cichero (ana.cichero@gmail.com)
+Se agradecen todo tipo de consultas, dudas, sugerencias...
+
+Este programa es software libre y desarrollado por la comunidad
+Por más información visitá http://ceibaljam.org
+Basado en "Conozco Uruguay". Autor: Gabriel Eirea (geirea@gmail.com)
+
+Sonidos bajados de freesound.org: btn045.wav gentileza de junggle
+Fuentes bajadas de urbanfonts.com: AllCaps.ttf gentileza de BobFrantic y
+Share-Regular.ttf gentileza de Anónimo

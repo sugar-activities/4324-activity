@@ -1,0 +1,61 @@
+Prefijo = Cuál es
+Prefijo = Cómo se llama
+Prefijo = Según mi información\tenemos que buscar
+Prefijo = Tenemos que encontrar
+Prefijo = Un elemento que es
+
+Sufijo = ¿Podés señalar cuál es?
+Sufijo = ¿Dónde está?
+Sufijo = ¿Dónde está?
+Sufijo = ¿Me indicás cuál es?
+Sufijo = ¿Podés mostrarme cuál es?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Acá no está
+Mal = Parece que no es ese
+Mal = Seguí probando...
+
+Despedida = Ahora puedo seguir\comiendo sano.\¡Gracias por tu ayuda!
+Despedida = Mi menú está pronto.\¡Chau y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para comer.\¡Hasta la próxima!
+
+[Nivel 1]
+Pregunta = el alimento que\se come con tuco|4|Pertenece al grupo\de cereales y leguminosas
+Pregunta = la fruta con la\que se hace el vino|10|Son de color morado
+Pregunta = la fruta de color\rojo más común en\las ensaladas|15|En la lámina hay dos
+Pregunta = la fruta que contiene\casi un 85 por\ciento de agua|15|En la lámina hay dos
+Pregunta = el lácteo que\comunmente se\come con cereales|20|Son dos potecitos
+Pregunta = el lácteo que\comunmente se\toma con café o similar|21|Hay una caja y un vaso
+Pregunta = el alimento energético\no grasa que\ponemos en la tostada|22|El pote tiene\una frutilla
+Pregunta = la carne con mayor\proporción de grasa|27|Es roja
+Pregunta = un elemento para\hacer una rica tortilla,\ batimos varios…|28|Vienen de las gallinas
+Pregunta = un elemento para\para hacer una tortilla,\pelamos...|17|Son marrones
+Pregunta = el cereal más\plantado en Rocha|2|Es una bolsa...
+Pregunta = el carbohidrato que\más consumimos|3|Se elabora en\las panaderias
+Pregunta = la legumbre más\rica en almidón|17|Es un tubérculo
+Pregunta = uno de los derivados\lácteos con mayor\contenido graso|8|Se suele comer con pan
+Pregunta = producto graso\que usamos para freir|7|Es liquido y\amarillento
+Pregunta = el grupo de alimentos\del que obtenemos\las vitaminas|30|Esta en verde
+Pregunta = el grupo del que\obtenemos las proteínas|34|Esta en rojo
+Pregunta = el grupo de alimentos\debemos consumir más|29|Esta en amarillo
+Pregunta = por día debemos tomar\dos litros de...|39|Esta en el centro
+Pregunta = el ingrediente que\debemos evitar\para evitar la\hipertensión|37|Cloruro de sodio
+Pregunta = para evitar las\caries no tenemos\que comer muchos|35|Son dos
+Pregunta = fruta que se dice\es buena para la vista|12|Es de color naranja
+Pregunta = una fruta\rica en potasio|41|Es amarilla
+Pregunta = una fruta\rica en hierro|15|Es rojo
+Pregunta = una fruta ácida que\contiene mucha\vitamina C|14|Es amarillo
+Pregunta = una fruta dulce que\contiene mucha\vitamina C|13|Es de color naranja
+Pregunta = el elemento que\en demasia puede\atacar el higado|28|Vienen de las gallinas
+Pregunta = la verdura que\generalmente se\utiliza para\hacer ravioles|42|Es verde
+Pregunta = la verdura que\se utiliza para\hacer polenta|16|Es amarillo
+Pregunta = el elemento que\generalmente se\come con pan|22|Es de sabor dulce
+Pregunta = el elemento\que se produce\mayoritariamente en\Colonia|19|Es un lacteo
+Pregunta = la carne de mayor\concentración de\Omega 3 y 6|26|Vive en el agua
+Pregunta = una grasa insaturada|7|Es liquido
+Pregunta = una grasa saturada|8|Es solido
